@@ -10,7 +10,7 @@ The objective of this project was to analyze coffee shop sales data to gain insi
 - Designed a dashboard to track sales trends, customer footfall, and product performance.  
 
 ## 📊 Dashboard Preview
-![Coffee Sales Dashboard](Coffee_Sales_Dashboard.png)
+![Coffee Sales Dashboard](View Sales Dashboard.png)
 
 ## 📈 Key Performance Indicators (KPIs)
 - **Total Sales:** $698,812.33  
